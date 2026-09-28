@@ -1,0 +1,19 @@
+# Vulnerable code
+
+import hashlib
+
+def hash_password(password):
+    return hashlib.sha1(password.encode()).hexdigest()
+
+
+# Secure code
+
+import bcrypt
+
+def hash_password_secure(password):
+    password_bytes = password.encode()
+    hashed_password = bcrypt.hashpw(
+        password_bytes,
+        bcrypt.gensalt()
+    )
+    return hashed_password
