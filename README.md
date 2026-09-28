@@ -43,6 +43,7 @@ OWASP Reference
 
 OWASP Top 10:2021 – A02: Cryptographic Failures
 OWASP A02: Cryptographic Failures
+https://top10.owasp.org/2025/ 
 
 4. Cryptographic Failures – Python
 Security Flaw
@@ -57,6 +58,7 @@ OWASP Reference
 
 OWASP Top 10:2021 – A02: Cryptographic Failures
 OWASP A02: Cryptographic Failures
+https://top10.owasp.org/2025/ 
 
 5. Injection – SQL Injection
 Security Flaw
@@ -71,6 +73,7 @@ OWASP Reference
 
 OWASP Top 10:2021 – A03: Injection
 OWASP A03: Injection
+https://top10.owasp.org/2025/ 
 
 6. Injection – NoSQL Injection
 Security Flaw
@@ -85,6 +88,7 @@ OWASP Reference
 
 OWASP Top 10:2021 – A03: Injection
 OWASP A03: Injection
+https://top10.owasp.org/2025/
 
 
 7. Insecure Design – Password Reset
@@ -100,7 +104,7 @@ OWASP Reference
 
 OWASP Top 10:2021 – A04: Insecure Design
 OWASP A04: Insecure Design
-
+https://top10.owasp.org/2025/ 
 
 8. Software and Data Integrity Failures
 Security Flaw
@@ -115,6 +119,7 @@ OWASP Reference
 
 OWASP Top 10:2021 – A08: Software and Data Integrity Failures
 OWASP A08: Software and Data Integrity Failures
+https://top10.owasp.org/2025/ 
 
 
 9. Server-Side Request Forgery (SSRF)
@@ -130,7 +135,7 @@ OWASP Reference
 
 OWASP Top 10:2021 – A10: Server-Side Request Forgery (SSRF)
 OWASP A10: SSRF
-
+https://top10.owasp.org/2025/ 
 
 
 10. Identification and Authentication Failures
@@ -146,4 +151,5 @@ OWASP Reference
 
 OWASP Top 10:2021 – A07: Identification and Authentication Failures
 OWASP A07: Identification and Authentication Failures
+https://top10.owasp.org/2025/ 
 
