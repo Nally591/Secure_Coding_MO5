@@ -10,7 +10,8 @@ The secure version checks whether the user is authenticated and then compares th
 OWASP Reference
 
 OWASP Top 10:2021 – A01: Broken Access Control
-OWASP A01: Broken Access Control
+
+https://top10.owasp.org/2021/A01_2021-Broken_Access_Control  
 
 2. Broken Access Control – Python
 Security Flaw
