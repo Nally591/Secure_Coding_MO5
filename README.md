@@ -24,7 +24,6 @@ The secure version first confirms that the user is logged in. It then checks tha
 
 OWASP Reference
 
-OWASP Top 10:2021 – A01: Broken Access Control
 OWASP A01: Broken Access Control
 https://top10.owasp.org/2025/ 
 
@@ -41,7 +40,6 @@ The secure version uses PBKDF2 with SHA-256 and a randomly generated salt. A sal
 
 OWASP Reference
 
-OWASP Top 10:2021 – A02: Cryptographic Failures
 OWASP A02: Cryptographic Failures
 https://top10.owasp.org/2025/ 
 
@@ -56,7 +54,6 @@ The secure version uses bcrypt. Bcrypt is specifically designed for password sto
 
 OWASP Reference
 
-OWASP Top 10:2021 – A02: Cryptographic Failures
 OWASP A02: Cryptographic Failures
 https://top10.owasp.org/2025/ 
 
@@ -71,7 +68,6 @@ The secure version uses a PreparedStatement and a parameterized query. The usern
 
 OWASP Reference
 
-OWASP Top 10:2021 – A03: Injection
 OWASP A03: Injection
 https://top10.owasp.org/2025/ 
 
@@ -86,7 +82,6 @@ The secure version checks that the username is a normal string before using it i
 
 OWASP Reference
 
-OWASP Top 10:2021 – A03: Injection
 OWASP A03: Injection
 https://top10.owasp.org/2025/
 
@@ -102,7 +97,6 @@ The secure design requires a valid password-reset token before allowing the pass
 
 OWASP Reference
 
-OWASP Top 10:2021 – A04: Insecure Design
 OWASP A04: Insecure Design
 https://top10.owasp.org/2025/ 
 
@@ -117,7 +111,6 @@ The secure version uses Subresource Integrity, or SRI, by including an expected 
 
 OWASP Reference
 
-OWASP Top 10:2021 – A08: Software and Data Integrity Failures
 OWASP A08: Software and Data Integrity Failures
 https://top10.owasp.org/2025/ 
 
@@ -133,7 +126,6 @@ The secure version validates the URL before making the request. It only accepts 
 
 OWASP Reference
 
-OWASP Top 10:2021 – A10: Server-Side Request Forgery (SSRF)
 OWASP A10: SSRF
 https://top10.owasp.org/2025/ 
 
@@ -149,7 +141,6 @@ The secure version uses BCrypt to compare the entered password with a stored pas
 
 OWASP Reference
 
-OWASP Top 10:2021 – A07: Identification and Authentication Failures
 OWASP A07: Identification and Authentication Failures
 https://top10.owasp.org/2025/ 
 
