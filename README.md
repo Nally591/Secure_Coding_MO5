@@ -26,6 +26,7 @@ OWASP Reference
 
 OWASP Top 10:2021 – A01: Broken Access Control
 OWASP A01: Broken Access Control
+https://top10.owasp.org/2025/ 
 
 OWASP identifies unauthorized access to another user's records as a broken access-control problem and recommends enforcing ownership checks.
 
